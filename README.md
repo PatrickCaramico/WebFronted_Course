@@ -8,7 +8,7 @@
 
 [5°Projeto](https://patrickcaramico.github.io/WebFronted_curse/5%C2%B0Projeto_Formulario/index.html)
 
-[6°Projeto](https://patrickcaramico.github.io/WebFronted_curse/5%C2%B0Projeto_MyComponentes/index.html)
+[6°Projeto](https://patrickcaramico.github.io/WebFronted_curse/6%C2%B0Projeto_MyComponents/index.html)
 
 [7°Projeto]
 
