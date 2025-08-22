@@ -10,7 +10,7 @@
 
 [6°Projeto](https://patrickcaramico.github.io/WebFronted_Course/6%C2%B0Projeto_MyComponents/index.html)
 
-[7°Projeto]
+[7°Projeto](https://patrickcaramico.github.io/WebFronted_Course/7%C2%B0Projeto_AngelsHostels/index.html)
 
 [8°Projeto]
 
