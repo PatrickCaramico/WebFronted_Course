@@ -14,6 +14,6 @@
 
 [8°Projeto](https://patrickcaramico.github.io/WebFronted_Course/8%C2%B0Projeto_Dashboard/index.html)
 
-[9°Projeto]
+[9°Projeto](https://patrickcaramico.github.io/WebFronted_Course/9%C2%B0Projeto_SerDigital/index.html)
 
 [10°Projeto]
