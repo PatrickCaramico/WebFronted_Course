@@ -1,1 +1,57 @@
-READN
+# 1º Projeto CSS: Página de Introdução ao Frontend
+
+![Imagem da página inicial do projeto com o título e a navegação](https://i.imgur.com/gK9p9R3.png)
+
+Este é o meu primeiro projeto em um curso de desenvolvimento web, focado na criação de uma página estática usando HTML e CSS. O objetivo principal foi aplicar e demonstrar conceitos fundamentais de web design para construir um layout funcional e visualmente agradável.
+
+---
+
+### 💻 Tecnologias Utilizadas
+
+O projeto foi construído com as seguintes tecnologias:
+
+-   **HTML5**: Para estruturar todo o conteúdo da página, incluindo o cabeçalho, a navegação, as seções de conteúdo e o rodapé.
+-   **CSS3**: Para estilizar todos os elementos, aplicando cores, tipografia, espaçamento e o layout responsivo.
+
+---
+
+### ✨ Destaques do Projeto
+
+Neste projeto, foram aplicados conceitos importantes de CSS, como:
+
+-   **Layout**: Utilização de `float` para criar as colunas dos cards, e `box-sizing: border-box` para facilitar o controle do layout.
+-   **Estilização de Componentes**: Estilização de elementos como a navegação, com bordas e cores transparentes (`rgba`), e o cabeçalho principal (`hero`) com uma imagem de fundo e efeitos de sombra no texto (`text-shadow`).
+-   **Seletores**: Uso de seletores avançados para estilizar elementos específicos, como o `h1` e o `p` dentro da classe `.hero-content`, e a aplicação de pseudo-classes (`:hover`) para criar interatividade no menu de navegação.
+-   **Mídia**: Inclusão de imagens e configuração de caminhos de arquivo dentro da pasta `assets`.
+
+---
+
+### 🚀 Acesso e Como Rodar o Projeto
+
+Você pode visualizar a versão final do projeto online ou rodá-lo localmente na sua máquina.
+
+**1. Acesso Online:**
+
+O projeto está hospedado no Netlify, e você pode acessá-lo diretamente pelo link abaixo:
+
+🔗 **[Acessar 1º Projeto CSS](https://1projeto-css.netlify.app/)**
+
+**2. Acesso Local:**
+
+Para rodar o projeto localmente, siga estes passos simples:
+
+1.  Clone o repositório para sua máquina:
+    `git clone https://github.com/PatrickCaramico/WebFronted_Course.git`
+2.  Navegue até a pasta do projeto:
+    `cd WebFronted_Course/1°Projeto_CSS`
+3.  Abra o arquivo `index.html` em qualquer navegador web (como Google Chrome, Firefox ou Edge).
+
+---
+
+### ✍️ Autor
+
+Este projeto foi desenvolvido por **Patrick Souza**.
+
+* [GitHub](https://github.com/PatrickCaramico)
+
+---
