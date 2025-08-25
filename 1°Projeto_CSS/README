@@ -1,13 +1,13 @@
-# 1°Projeto CSS: Página de Introdução ao Frontend
+# 1°Projeto CSS: Página de Introdução ao Frontend #
 
 Este projeto é um exercício inicial de um curso de desenvolvimento web. O objetivo é criar uma página estática, demonstrando a aplicação de conceitos básicos de HTML e CSS.
 
-### 🛠️ Tecnologias Utilizadas
-
+### 🛠️ Tecnologias Utilizadas ###
+ 
 -   **HTML5**: Para estruturar a página e seu conteúdo.
 -   **CSS3**: Para estilização e layout, utilizando conceitos como `float`, `box-sizing`, seletores e pseudo-classes.
 
-### 🚀 Acesso e Execução
+### 🚀 Acesso e Execução ###
 
 O projeto final pode ser visualizado diretamente no Netlify.
 
@@ -17,7 +17,7 @@ Para rodar o projeto localmente, basta abrir o arquivo `index.html` em qualquer 
 
 ---
 
-### ✍️ Autor
+### ✍️ Autor ###
 
 -   **Patrick Souza**
     -   [GitHub](https://github.com/PatrickCaramico)
