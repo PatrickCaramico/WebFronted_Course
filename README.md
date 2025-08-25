@@ -1,19 +1,19 @@
-[1°Projeto](https://1projetocss.netlify.app/)
+[1°Projeto](https://1projeto-css.netlify.app/)
 
-[2°Projeto](https://patrickcaramico.github.io/WebFronted_Course/2%C2%B0Projeto_Contatos/)
+[2°Projeto](https://2projeto-contatos.netlify.app/)
 
-[3°Projeto](https://patrickcaramico.github.io/WebFronted_Course/3%C2%B0Projeto_PriceCard/)
+[3°Projeto](https://3projeto-price-card.netlify.app/)
 
-[4°Projeto](https://patrickcaramico.github.io/WebFronted_Course/4%C2%B0Projeto_Aprenser/)
+[4°Projeto](https://4projeto-aprenser.netlify.app/)
 
-[5°Projeto](https://patrickcaramico.github.io/WebFronted_Course/5%C2%B0Projeto_Formulario/index.html)
+[5°Projeto](https://5projeto-formulario.netlify.app/)
 
-[6°Projeto](https://patrickcaramico.github.io/WebFronted_Course/6%C2%B0Projeto_MyComponents/index.html)
+[6°Projeto](https://6projeto-my-components.netlify.app/)
 
-[7°Projeto](https://patrickcaramico.github.io/WebFronted_Course/7%C2%B0Projeto_AngelsHostels/index.html)
+[7°Projeto](https://7projeto-angels-hostels.netlify.app/)
 
-[8°Projeto](https://patrickcaramico.github.io/WebFronted_Course/8%C2%B0Projeto_Dashboard/index.html)
+[8°Projeto](https://8projeto-dashboard.netlify.app/)
 
-[9°Projeto](https://patrickcaramico.github.io/WebFronted_Course/9%C2%B0Projeto_SerDigital/index.html)
+[9°Projeto](https://9projeto-ser-digital.netlify.app/)
 
-[10°Projeto](https://patrickcaramico.github.io/WebFronted_Course/10%C2%B0Projeto_Infusion/index.html)
+[10°Projeto](https://10projeto-infusion.netlify.app/)
