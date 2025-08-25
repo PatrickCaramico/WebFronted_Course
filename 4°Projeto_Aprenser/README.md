@@ -27,7 +27,7 @@ Este projeto incorpora diversas técnicas de CSS de nível mais avançado:
 Você pode visualizar a versão final do projeto online ou rodá-lo localmente na sua máquina.
 
 **1. Acesso Online:**
-(Insira o link do seu projeto online aqui)
+(https://4projeto-aprenser.netlify.app/)
 
 **2. Acesso Local:**
 Para rodar o projeto localmente, siga estes passos:
