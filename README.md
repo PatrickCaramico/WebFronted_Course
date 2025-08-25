@@ -43,4 +43,4 @@ Você pode acessar cada projeto individualmente através dos links abaixo:
 
 - **Patrick Souza**
   - [GitHub](https://github.com/PatrickCaramico)
-  - [LinkedIn](https://linkedin.com/in/seu-perfil)
+  - [LinkedIn](https://www.linkedin.com/in/patrickcaramico/)
